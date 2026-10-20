@@ -1,0 +1,721 @@
+{
+ "v": 1,
+ "stickers": [
+  {
+   "file": "01-purpleglittersquishy.webp",
+   "name": "Purple glitter squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي بنفسجي لامع"
+  },
+  {
+   "file": "girl/cherry-blossom.webp",
+   "name": "Cherry blossom",
+   "ar": "زهرة الكرز",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "02-strawberry.webp",
+   "name": "Strawberry",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "فراولة"
+  },
+  {
+   "file": "04-unicorn.webp",
+   "name": "Unicorn",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "يونيكورن"
+  },
+  {
+   "file": "03-panda.webp",
+   "name": "Panda",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "باندا"
+  },
+  {
+   "file": "girl/tulip.webp",
+   "name": "Tulip",
+   "ar": "توليب",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "05-pinkglittersquishy.webp",
+   "name": "Pink glitter squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي وردي لامع"
+  },
+  {
+   "file": "08-rainbow.webp",
+   "name": "Rainbow",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "قوس قزح"
+  },
+  {
+   "file": "06-doughnut.webp",
+   "name": "Doughnut",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "دونات"
+  },
+  {
+   "file": "n-sloth.webp",
+   "name": "Sloth",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "كسلان"
+  },
+  {
+   "file": "girl/sunflower.webp",
+   "name": "Sunflower",
+   "ar": "عبّاد الشمس",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "girl/sparkles.webp",
+   "name": "Sparkles",
+   "ar": "بريق",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "07-hamster.webp",
+   "name": "Hamster",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "هامستر"
+  },
+  {
+   "file": "n-avocado.webp",
+   "name": "Avocado",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "أفوكادو"
+  },
+  {
+   "file": "girl/bouquet.webp",
+   "name": "Bouquet",
+   "ar": "باقة ورد",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-crystalball.webp",
+   "name": "Crystal ball",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "كرة بلّورية"
+  },
+  {
+   "file": "09-kittysquishy.webp",
+   "name": "Kitty squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي القطّة"
+  },
+  {
+   "file": "n-camel.webp",
+   "name": "Camel",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "جمل"
+  },
+  {
+   "file": "girl/ballet-shoes.webp",
+   "name": "Ballet shoes",
+   "ar": "حذاء الباليه",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "12-rainbowsquishy.webp",
+   "name": "Rainbow squishy",
+   "sparkle": true,
+   "kind": "glitter",
+   "ar": "سكويشي قوس قزح"
+  },
+  {
+   "file": "10-cupcake.webp",
+   "name": "Cupcake",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "كب كيك"
+  },
+  {
+   "file": "11-rabbit_face.webp",
+   "name": "Bunny",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "أرنب"
+  },
+  {
+   "file": "n-otter.webp",
+   "name": "Otter",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "قضاعة"
+  },
+  {
+   "file": "n-magicwand.webp",
+   "name": "Magic wand",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "عصا سحرية"
+  },
+  {
+   "file": "girl/dress.webp",
+   "name": "Dress",
+   "ar": "فستان",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "13-mintmochi.webp",
+   "name": "Mint mochi",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "موتشي بالنعناع"
+  },
+  {
+   "file": "n-pizza.webp",
+   "name": "Pizza",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "بيتزا"
+  },
+  {
+   "file": "16-sparkling_heart.webp",
+   "name": "Heart",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "قلب لامع"
+  },
+  {
+   "file": "girl/swan.webp",
+   "name": "Swan",
+   "ar": "بجعة",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "14-bubble_tea.webp",
+   "name": "Bubble tea",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "شاي الفقاعات"
+  },
+  {
+   "file": "15-seal.webp",
+   "name": "Seal",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "فقمة"
+  },
+  {
+   "file": "n-mirrorball.webp",
+   "name": "Disco ball",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "كرة الديسكو"
+  },
+  {
+   "file": "girl/peacock.webp",
+   "name": "Peacock",
+   "ar": "طاووس",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-flamingo.webp",
+   "name": "Flamingo",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "فلامنغو"
+  },
+  {
+   "file": "17-bunnysquishy.webp",
+   "name": "Bunny squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي الأرنب"
+  },
+  {
+   "file": "girl/ribbon.webp",
+   "name": "Ribbon",
+   "ar": "شريطة",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "girl/lollipop.webp",
+   "name": "Lollipop",
+   "ar": "مصّاصة",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "18-peach.webp",
+   "name": "Peach",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "خوخ"
+  },
+  {
+   "file": "n-dumpling.webp",
+   "name": "Dumpling",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "دامبلنغ"
+  },
+  {
+   "file": "20-glowing_star.webp",
+   "name": "Star",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "نجمة متوهّجة"
+  },
+  {
+   "file": "19-cat_face.webp",
+   "name": "Kitty",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "قطّة"
+  },
+  {
+   "file": "girl/spiral-shell.webp",
+   "name": "Seashell",
+   "ar": "صدفة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-koala.webp",
+   "name": "Koala",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "كوالا"
+  },
+  {
+   "file": "24-clearsparklesquishy.webp",
+   "name": "Clear sparkle squishy",
+   "sparkle": true,
+   "kind": "glitter",
+   "ar": "سكويشي شفّاف لامع"
+  },
+  {
+   "file": "21-bearsquishy.webp",
+   "name": "Bear squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي الدبدوب"
+  },
+  {
+   "file": "girl/hibiscus.webp",
+   "name": "Hibiscus",
+   "ar": "كركديه",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "22-dango.webp",
+   "name": "Dango",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "دانغو"
+  },
+  {
+   "file": "n-gemstone.webp",
+   "name": "Gem",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "جوهرة"
+  },
+  {
+   "file": "n-hedgehog.webp",
+   "name": "Hedgehog",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "قنفذ"
+  },
+  {
+   "file": "girl/rose.webp",
+   "name": "Rose",
+   "ar": "وردة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "23-penguin.webp",
+   "name": "Penguin",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "بطريق"
+  },
+  {
+   "file": "28-butterfly.webp",
+   "name": "Butterfly",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "فراشة"
+  },
+  {
+   "file": "n-popcorn.webp",
+   "name": "Popcorn",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "فشار"
+  },
+  {
+   "file": "girl/blossom.webp",
+   "name": "Blossom",
+   "ar": "زهرة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "25-heartsquishy.webp",
+   "name": "Heart squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي القلب"
+  },
+  {
+   "file": "girl/bubbles.webp",
+   "name": "Bubbles",
+   "ar": "فقاعات",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "n-owl.webp",
+   "name": "Owl",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "بومة"
+  },
+  {
+   "file": "26-soft_ice_cream.webp",
+   "name": "Ice cream",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "آيس كريم"
+  },
+  {
+   "file": "girl/cherries.webp",
+   "name": "Cherries",
+   "ar": "كرز",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "n-carouselhorse.webp",
+   "name": "Carousel horse",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "حصان الدوّامة"
+  },
+  {
+   "file": "27-teddy_bear.webp",
+   "name": "Teddy",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "دبدوب"
+  },
+  {
+   "file": "n-turtle.webp",
+   "name": "Turtle",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "سلحفاة"
+  },
+  {
+   "file": "girl/candy.webp",
+   "name": "Sweet",
+   "ar": "حلوى",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "32-starsquishy.webp",
+   "name": "Star squishy",
+   "sparkle": true,
+   "kind": "glitter",
+   "ar": "سكويشي النجمة"
+  },
+  {
+   "file": "29-cloudsquishy.webp",
+   "name": "Cloud squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي الغيمة"
+  },
+  {
+   "file": "n-watermelon.webp",
+   "name": "Watermelon",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "بطّيخ"
+  },
+  {
+   "file": "girl/birthday-cake.webp",
+   "name": "Birthday cake",
+   "ar": "كعكة عيد الميلاد",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "n-partypopper.webp",
+   "name": "Party popper",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "مفرقعة الحفلة"
+  },
+  {
+   "file": "30-shortcake.webp",
+   "name": "Cake",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "كعكة"
+  },
+  {
+   "file": "31-chicksquishy.webp",
+   "name": "Chick squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي الكتكوت"
+  },
+  {
+   "file": "n-snail.webp",
+   "name": "Snail",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "حلزون"
+  },
+  {
+   "file": "36-crown.webp",
+   "name": "Crown",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "تاج"
+  },
+  {
+   "file": "girl/lady-beetle.webp",
+   "name": "Ladybird",
+   "ar": "دعسوقة",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "33-frogsquishy.webp",
+   "name": "Frog squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي الضفدع"
+  },
+  {
+   "file": "34-custard.webp",
+   "name": "Pudding",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "بودينغ"
+  },
+  {
+   "file": "n-fullmoonface.webp",
+   "name": "Smiling moon",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "قمر مبتسم"
+  },
+  {
+   "file": "girl/honeybee.webp",
+   "name": "Bee",
+   "ar": "نحلة",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-pancakes.webp",
+   "name": "Pancakes",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "بان كيك"
+  },
+  {
+   "file": "35-jellybeansquishy.webp",
+   "name": "Jelly bean squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي حبّة الجيلي"
+  },
+  {
+   "file": "girl/heart-with-ribbon.webp",
+   "name": "Gift heart",
+   "ar": "قلب الهدية",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "girl/hatching-chick.webp",
+   "name": "Chick",
+   "ar": "كتكوت",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-llama.webp",
+   "name": "Llama",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "لاما"
+  },
+  {
+   "file": "37-peachbunsquishy.webp",
+   "name": "Peach bun squishy",
+   "sparkle": false,
+   "kind": "glitter",
+   "ar": "سكويشي كعكة الخوخ"
+  },
+  {
+   "file": "40-unicornsquishy.webp",
+   "name": "Unicorn squishy",
+   "sparkle": true,
+   "kind": "glitter",
+   "ar": "سكويشي اليونيكورن"
+  },
+  {
+   "file": "girl/handbag.webp",
+   "name": "Handbag",
+   "ar": "حقيبة يد",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-nestingdolls.webp",
+   "name": "Nesting dolls",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "دمى متداخلة"
+  },
+  {
+   "file": "38-rice_ball.webp",
+   "name": "Onigiri",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "كرة أرز"
+  },
+  {
+   "file": "n-wrappedgift.webp",
+   "name": "Gift",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "هدية"
+  },
+  {
+   "file": "n-cactus.webp",
+   "name": "Cactus",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "صبّار"
+  },
+  {
+   "file": "girl/mushroom.webp",
+   "name": "Mushroom",
+   "ar": "فطر",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "39-honey_pot.webp",
+   "name": "Honey pot",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "جرّة عسل"
+  },
+  {
+   "file": "n-croissant.webp",
+   "name": "Croissant",
+   "sparkle": false,
+   "kind": "food",
+   "ar": "كرواسون"
+  },
+  {
+   "file": "girl/balloon.webp",
+   "name": "Balloon",
+   "ar": "بالون",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-fox.webp",
+   "name": "Fox",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "ثعلب"
+  }
+ ],
+ "legacy": [],
+ "friendEvery": 7,
+ "friends": [
+  {
+   "file": "friends/princess.webp",
+   "name": "Princess",
+   "dance": "twirl",
+   "ar": "الأميرة"
+  },
+  {
+   "file": "friends/health-worker.webp",
+   "name": "Doctor",
+   "dance": "bounce",
+   "ar": "الطبيبة"
+  },
+  {
+   "file": "friends/fairy.webp",
+   "name": "Fairy",
+   "dance": "fly",
+   "ar": "الجنّية"
+  },
+  {
+   "file": "friends/astronaut.webp",
+   "name": "Astronaut",
+   "dance": "fly",
+   "ar": "رائدة الفضاء"
+  },
+  {
+   "file": "friends/cartwheeling.webp",
+   "name": "Cartwheel girl",
+   "dance": "spin",
+   "ar": "البهلوانة"
+  },
+  {
+   "file": "friends/scientist.webp",
+   "name": "Scientist",
+   "dance": "sway",
+   "ar": "العالِمة"
+  },
+  {
+   "file": "friends/superhero.webp",
+   "name": "Superwoman",
+   "dance": "fly",
+   "ar": "البطلة الخارقة"
+  },
+  {
+   "file": "friends/artist.webp",
+   "name": "Artist",
+   "dance": "sway",
+   "ar": "الرسّامة"
+  },
+  {
+   "file": "friends/pilot.webp",
+   "name": "Pilot",
+   "dance": "sway",
+   "ar": "الطيّارة"
+  }
+ ]
+}

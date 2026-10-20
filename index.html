@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ar">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Times Table Cards · جدول الضرب</title>
+<meta name="description" content="Practise the times tables from 1 to 10 in Arabic, with a recorded voice and a sticker book.">
+<meta name="theme-color" content="#FFF7EF">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="جدول الضرب">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" type="image/png" href="icon-192.png">
+<link rel="preload" href="fonts/tajawal-500.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/tajawal-800.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 2.8l2.75 5.6 6.15.9-4.45 4.35 1.05 6.1L12 16.85 6.5 19.75l1.05-6.1L3.1 9.3l6.15-.9z"/></symbol>
+  <symbol id="i-loop" viewBox="0 0 24 24"><path d="M19.5 12.5a7.5 7.5 0 1 1-2.2-5.8" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/><path d="M18.6 3.2v4.4h-4.4" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-speaker" viewBox="0 0 24 24"><path d="M3.5 9.2h3.8L12.4 5v14l-5.1-4.2H3.5z" fill="currentColor" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M15.6 9a4.2 4.2 0 0 1 0 6M18.4 6.4a8 8 0 0 1 0 11.2" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
+  <symbol id="i-turn" viewBox="0 0 24 24"><path d="M4.2 9.6C5.9 7.4 8.7 6.2 12 6.2c4.7 0 8.5 2.6 8.5 5.8s-3.8 5.8-8.5 5.8c-1.6 0-3.1-.3-4.4-.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M9.6 14.4l-2.6 2.6 3.3 1.8" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-lock" viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10" rx="2.5" fill="currentColor"/><path d="M8.2 10.5V8a3.8 3.8 0 0 1 7.6 0v2.5" fill="none" stroke="currentColor" stroke-width="2.4"/></symbol>
+  <symbol id="i-tick" viewBox="0 0 24 24"><path d="M4.5 12.8l4.6 4.6L19.5 7" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-cross" viewBox="0 0 24 24"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/></symbol>
+  <symbol id="i-gift" viewBox="0 0 24 24"><rect x="3.5" y="8" width="17" height="4.5" rx="1" fill="none" stroke="currentColor" stroke-width="2"/><path d="M5.5 12.5V20h13v-7.5M12 8v12M12 8c-1.8-3.6-5.6-3.4-5.2-1 .3 1.4 2.6 1 5.2 1zm0 0c1.8-3.6 5.6-3.4 5.2-1-.3 1.4-2.6 1-5.2 1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+  <symbol id="i-flame" viewBox="0 0 24 24"><path d="M12.6 2.4c.5 2.9-1.1 4.5-2.6 6.2C8.4 10.4 6.6 12.4 6.6 15.3c0 3.6 2.5 6.3 5.6 6.3s5.8-2.6 5.8-6.2c0-2.5-1.2-4.6-2.7-6.1-.2 1.4-.9 2.5-2 3 .5-3.5-.2-7.4-.7-9.9z"/></symbol>
+  <symbol id="i-save" viewBox="0 0 24 24"><path d="M12 3.5v11M7.2 10l4.8 4.8 4.8-4.8M4.5 16.5v2.2c0 .9.7 1.6 1.6 1.6h11.8c.9 0 1.6-.7 1.6-1.6v-2.2" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-gear" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+</svg>
+
+<!-- the first page: the child's name, and a boy or a girl -->
+<section id="ttWho" class="screen mx tt-who" dir="rtl" lang="ar" hidden>
+  <h1 class="mx-title"><span class="mx-logo" aria-hidden="true">×</span>جدول الضرب</h1>
+  <label class="tt-q" for="ttNameIn">ما اسمك؟</label>
+  <input id="ttNameIn" class="tt-name" type="text" maxlength="30" autocomplete="off" autocorrect="off" enterkeyhint="done">
+  <div class="tt-q">ولد أم بنت؟</div>
+  <div class="tt-picks">
+    <button class="tt-pick boy" data-pick="boy" aria-pressed="false"><span aria-hidden="true">👦</span>ولد</button>
+    <button class="tt-pick girl" data-pick="girl" aria-pressed="false"><span aria-hidden="true">👧</span>بنت</button>
+  </div>
+  <button id="ttGo" class="btn-start tt-go" disabled>هيا بنا!</button>
+  <p class="tt-note" lang="en" dir="ltr">For parents: the Arabic will speak to a boy or a girl, and the sticker book will be blue or pink with its own stickers. You can change both later in the parent area (press and hold the gear on the home screen).</p>
+</section>
+
+<div id="toast" class="toast" hidden></div>
+<div id="devbar" class="devbar" hidden></div>
+
+<script src="tt.js"></script>
+</body>
+</html>

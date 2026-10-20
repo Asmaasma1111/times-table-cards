@@ -1,0 +1,721 @@
+{
+ "v": 1,
+ "stickers": [
+  {
+   "file": "boy/sq-blue.webp",
+   "name": "Blue glitter squishy",
+   "ar": "سكويشي أزرق لامع",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/racing-car.webp",
+   "name": "Racing car",
+   "ar": "سيارة سباق",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/soccer-ball.webp",
+   "name": "Football",
+   "ar": "كرة قدم",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/high-voltage.webp",
+   "name": "Lightning",
+   "ar": "برق",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/basketball.webp",
+   "name": "Basketball",
+   "ar": "كرة سلة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-sauropod.webp",
+   "name": "Dinosaur",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "ديناصور"
+  },
+  {
+   "file": "boy/t-rex.webp",
+   "name": "T-rex",
+   "ar": "تي ركس",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/comet.webp",
+   "name": "Comet",
+   "ar": "مذنّب",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/helicopter.webp",
+   "name": "Helicopter",
+   "ar": "طائرة مروحية",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/airplane.webp",
+   "name": "Aeroplane",
+   "ar": "طائرة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/fire-engine.webp",
+   "name": "Fire engine",
+   "ar": "سيارة إطفاء",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/sq-planet.webp",
+   "name": "Planet squishy",
+   "ar": "سكويشي الكوكب",
+   "sparkle": true,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/sq-dino.webp",
+   "name": "Dino squishy",
+   "ar": "سكويشي الديناصور",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/locomotive.webp",
+   "name": "Train",
+   "ar": "قطار",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-rocket.webp",
+   "name": "Rocket",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "صاروخ"
+  },
+  {
+   "file": "boy/compass.webp",
+   "name": "Compass",
+   "ar": "بوصلة",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/tractor.webp",
+   "name": "Tractor",
+   "ar": "جرّار",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/motorcycle.webp",
+   "name": "Motorbike",
+   "ar": "درّاجة نارية",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/flying-saucer.webp",
+   "name": "Flying saucer",
+   "ar": "صحن طائر",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/sports-medal.webp",
+   "name": "Medal",
+   "ar": "ميدالية",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-shark.webp",
+   "name": "Shark squishy",
+   "ar": "سكويشي القرش",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/satellite.webp",
+   "name": "Satellite",
+   "ar": "قمر صناعي",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/shark.webp",
+   "name": "Shark",
+   "ar": "قرش",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-ringedplanet.webp",
+   "name": "Planet",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "كوكب"
+  },
+  {
+   "file": "n-guitar.webp",
+   "name": "Guitar",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "غيتار"
+  },
+  {
+   "file": "boy/octopus.webp",
+   "name": "Octopus",
+   "ar": "أخطبوط",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/crocodile.webp",
+   "name": "Crocodile",
+   "ar": "تمساح",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/shooting-star.webp",
+   "name": "Shooting star",
+   "ar": "شهاب",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-robot.webp",
+   "name": "Robot squishy",
+   "ar": "سكويشي الروبوت",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/spouting-whale.webp",
+   "name": "Whale",
+   "ar": "حوت",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/eagle.webp",
+   "name": "Eagle",
+   "ar": "نسر",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/sun-with-face.webp",
+   "name": "Smiling sun",
+   "ar": "شمس مبتسمة",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/tiger-face.webp",
+   "name": "Tiger",
+   "ar": "نمر",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-robot.webp",
+   "name": "Robot",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "روبوت"
+  },
+  {
+   "file": "boy/volcano.webp",
+   "name": "Volcano",
+   "ar": "بركان",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/sq-bolt.webp",
+   "name": "Lightning squishy",
+   "ar": "سكويشي البرق",
+   "sparkle": true,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/sq-football.webp",
+   "name": "Football squishy",
+   "ar": "سكويشي الكرة",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/telescope.webp",
+   "name": "Telescope",
+   "ar": "تلسكوب",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/magnet.webp",
+   "name": "Magnet",
+   "ar": "مغناطيس",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/crescent-moon.webp",
+   "name": "Crescent moon",
+   "ar": "هلال",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/skateboard.webp",
+   "name": "Skateboard",
+   "ar": "لوح تزلّج",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/bicycle.webp",
+   "name": "Bicycle",
+   "ar": "درّاجة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-ghost.webp",
+   "name": "Friendly ghost",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "شبح لطيف"
+  },
+  {
+   "file": "boy/fire.webp",
+   "name": "Fire",
+   "ar": "نار",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-monster.webp",
+   "name": "Monster squishy",
+   "ar": "سكويشي الوحش اللطيف",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/puzzle-piece.webp",
+   "name": "Puzzle piece",
+   "ar": "قطعة أحجية",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/police-car.webp",
+   "name": "Police car",
+   "ar": "سيارة شرطة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/light-bulb.webp",
+   "name": "Light bulb",
+   "ar": "مصباح",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/ambulance.webp",
+   "name": "Ambulance",
+   "ar": "سيارة إسعاف",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/bus.webp",
+   "name": "Bus",
+   "ar": "حافلة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/articulated-lorry.webp",
+   "name": "Lorry",
+   "ar": "شاحنة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/1st-place-medal.webp",
+   "name": "Gold medal",
+   "ar": "ميدالية ذهبية",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-green.webp",
+   "name": "Green glitter squishy",
+   "ar": "سكويشي أخضر لامع",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "n-kite.webp",
+   "name": "Kite",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "طائرة ورقية"
+  },
+  {
+   "file": "boy/speedboat.webp",
+   "name": "Speedboat",
+   "ar": "قارب سريع",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/sq-star.webp",
+   "name": "Blue star squishy",
+   "ar": "سكويشي النجمة الزرقاء",
+   "sparkle": true,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/ship.webp",
+   "name": "Ship",
+   "ar": "سفينة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/parachute.webp",
+   "name": "Parachute",
+   "ar": "مظلّة هبوط",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/kick-scooter.webp",
+   "name": "Scooter",
+   "ar": "سكوتر",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/globe-showing-asia-australia.webp",
+   "name": "Globe",
+   "ar": "الكرة الأرضية",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-whale.webp",
+   "name": "Whale squishy",
+   "ar": "سكويشي الحوت",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/high-speed-train.webp",
+   "name": "Fast train",
+   "ar": "قطار سريع",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-alien.webp",
+   "name": "Alien",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "كائن فضائي"
+  },
+  {
+   "file": "boy/milky-way.webp",
+   "name": "Milky Way",
+   "ar": "درب التبّانة",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/american-football.webp",
+   "name": "Rugby ball",
+   "ar": "كرة رغبي",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/baseball.webp",
+   "name": "Baseball",
+   "ar": "كرة بيسبول",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/ice-hockey.webp",
+   "name": "Ice hockey",
+   "ar": "هوكي الجليد",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "n-trophy.webp",
+   "name": "Trophy",
+   "sparkle": true,
+   "kind": "sparkly",
+   "ar": "كأس"
+  },
+  {
+   "file": "boy/sq-tiger.webp",
+   "name": "Tiger squishy",
+   "ar": "سكويشي النمر",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/goal-net.webp",
+   "name": "Goal",
+   "ar": "مرمى",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/joystick.webp",
+   "name": "Joystick",
+   "ar": "عصا ألعاب",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/bullseye.webp",
+   "name": "Bullseye",
+   "ar": "إصابة الهدف",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "n-dragonface.webp",
+   "name": "Dragon",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "تنّين"
+  },
+  {
+   "file": "boy/yo-yo.webp",
+   "name": "Yo-yo",
+   "ar": "يويو",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/toolbox.webp",
+   "name": "Toolbox",
+   "ar": "صندوق العدّة",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/fireworks.webp",
+   "name": "Fireworks",
+   "ar": "ألعاب نارية",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-turtle.webp",
+   "name": "Turtle squishy",
+   "ar": "سكويشي السلحفاة",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/microscope.webp",
+   "name": "Microscope",
+   "ar": "مجهر",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/abacus.webp",
+   "name": "Abacus",
+   "ar": "معداد",
+   "sparkle": false,
+   "kind": "thing"
+  },
+  {
+   "file": "boy/sq-galaxy.webp",
+   "name": "Galaxy squishy",
+   "ar": "سكويشي المجرّة",
+   "sparkle": true,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/dragon.webp",
+   "name": "Dragon",
+   "ar": "تنّين",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "n-videogame.webp",
+   "name": "Game controller",
+   "sparkle": false,
+   "kind": "thing",
+   "ar": "يد ألعاب"
+  },
+  {
+   "file": "boy/wolf.webp",
+   "name": "Wolf",
+   "ar": "ذئب",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/snowflake.webp",
+   "name": "Snowflake",
+   "ar": "ندفة ثلج",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/sq-car.webp",
+   "name": "Car squishy",
+   "ar": "سكويشي السيارة",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/gorilla.webp",
+   "name": "Gorilla",
+   "ar": "غوريلا",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/dolphin.webp",
+   "name": "Dolphin",
+   "ar": "دلفين",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/old-key.webp",
+   "name": "Golden key",
+   "ar": "مفتاح ذهبي",
+   "sparkle": true,
+   "kind": "sparkly"
+  },
+  {
+   "file": "boy/crab.webp",
+   "name": "Crab",
+   "ar": "سلطعون",
+   "sparkle": false,
+   "kind": "animal"
+  },
+  {
+   "file": "boy/hamburger.webp",
+   "name": "Burger",
+   "ar": "برغر",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "n-lion.webp",
+   "name": "Lion",
+   "sparkle": false,
+   "kind": "animal",
+   "ar": "أسد"
+  },
+  {
+   "file": "boy/sq-burger.webp",
+   "name": "Burger squishy",
+   "ar": "سكويشي البرغر",
+   "sparkle": false,
+   "kind": "glitter"
+  },
+  {
+   "file": "boy/french-fries.webp",
+   "name": "Chips",
+   "ar": "بطاطس مقلية",
+   "sparkle": false,
+   "kind": "food"
+  },
+  {
+   "file": "boy/snowman.webp",
+   "name": "Snowman",
+   "ar": "رجل الثلج",
+   "sparkle": false,
+   "kind": "thing"
+  }
+ ],
+ "legacy": [],
+ "friendEvery": 7,
+ "friends": [
+  {
+   "file": "boy/friends/prince.webp",
+   "name": "Prince",
+   "ar": "الأمير",
+   "dance": "twirl"
+  },
+  {
+   "file": "boy/friends/man-health-worker.webp",
+   "name": "Doctor",
+   "ar": "الطبيب",
+   "dance": "bounce"
+  },
+  {
+   "file": "boy/friends/man-mage.webp",
+   "name": "Wizard",
+   "ar": "الساحر",
+   "dance": "fly"
+  },
+  {
+   "file": "boy/friends/man-astronaut.webp",
+   "name": "Astronaut",
+   "ar": "رائد الفضاء",
+   "dance": "fly"
+  },
+  {
+   "file": "boy/friends/man-cartwheeling.webp",
+   "name": "Cartwheel boy",
+   "ar": "البهلوان",
+   "dance": "spin"
+  },
+  {
+   "file": "boy/friends/man-scientist.webp",
+   "name": "Scientist",
+   "ar": "العالِم",
+   "dance": "sway"
+  },
+  {
+   "file": "boy/friends/man-superhero.webp",
+   "name": "Superhero",
+   "ar": "البطل الخارق",
+   "dance": "fly"
+  },
+  {
+   "file": "boy/friends/man-artist.webp",
+   "name": "Artist",
+   "ar": "الرسّام",
+   "dance": "sway"
+  },
+  {
+   "file": "boy/friends/man-pilot.webp",
+   "name": "Pilot",
+   "ar": "الطيّار",
+   "dance": "sway"
+  }
+ ]
+}
